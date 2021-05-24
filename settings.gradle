@@ -1,0 +1,4 @@
+include ':facebook-log'
+include ':app'
+include ':libraries:facebook'
+rootProject.name = "FacebookLogin"
